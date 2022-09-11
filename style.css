@@ -61,6 +61,7 @@ h2 a:hover {
   transform: translateY(-50%) !important;
   z-index: 3;
   display: block;
+  text-align: justify;
 }
 
 
